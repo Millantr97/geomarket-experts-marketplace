@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://millantr97.github.io/geomarket-experts-marketplace/sitemap.xml
